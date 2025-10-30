@@ -67,7 +67,7 @@ I thrive in collaborative environments, enjoy "problem-solving", and am always o
 | Front-End App | Sample React application | [Repo](https://github.com/segnim21/frontend-app) |
 
 
-✨ *“Code. Create. Collaborate.”* — that’s my mindset for building meaningful digital experiences.
+✨ *“Code. Create. Collaborate.”* that’s my mindset for building meaningful digital experiences.
 
 
 <!--
