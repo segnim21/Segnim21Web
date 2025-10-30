@@ -60,7 +60,7 @@ I thrive in collaborative environments, enjoy "problem-solving", and am always o
 
 
 
- 📝 Projects (Optional)
+ 📝 Projects 
 | Project | Description | Link |
 |---------|-------------|------|
 | My Portfolio | Personal website showcasing projects | [Repo](https://github.com/segnim21/my-portfolio) |
