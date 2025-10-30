@@ -1,36 +1,73 @@
 # Segnim21Web
-<h1>Hi, I'm Segni! <br/></h1>
+<!--
+Personalized GitHub Profile for Segni M
+-->
 
-<h2>👨‍💻I’m currently learning Front End Developement... </h2>
-<h2>projects!</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h1 align="center">Hi 👋, I'm Segni M</h1>
+<h2 align="center">Aspiring Full-Stack Developer | Front-End Learner at ALX Africa | Civil Engineering Student at AASTU</h2>
+
+ 🌟 About Me
+I am a learner of the "ALX Software Engineering Program" and I want to "revamp my GitHub profile" to make it stand out in my job search.  
+This is why I started with software engineering: I am passionate about "creating user-friendly web applications" and inspired by the power of code to "solve real-world problems and make a difference for users".  
+
+My aim is to become a skilled Full-Stack Developer who can build seamless, intuitive, and impactful digital experiences.  
+That’s why I would like to work on web development projects that focus on user-centered design, accessibility, and practical solutions for everyday challenges.  
+
+I thrive in collaborative environments, enjoy "problem-solving", and am always open to learning new skills and exploring new technologies.  
 
 
-<h2> 🤳 Connect with me:</h2>
+  🛠️ Skills & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="32px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="32px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="32px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="32px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="32px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="32px" />
+</p>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: [https://twitter.com/joshmadakor](https://x.com/SMideksa21?t=WCoTCsG8fYVei0XxX7xnNA&s=09)
-[youtube]: https://www.youtube.com/@SegniMideksa-s7t3f
-[instagram]: [https://www.instagram.com/joshmadakor/](https://www.instagram.com/segncot12?igsh=aTU5ZGR2dXR1MHhu)
-[linkedin]: www.linkedin.com/in/segni-mideksa21
+ 🤳 <h3>Connect with Me</h3>
+<p align="left">
+  <a href="https://www.youtube.com/@SegniMideksa-s7t3f" target="_blank">
+    <img align="left" alt="Segnim | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  </a>
+  <a href="https://twitter.com/SMideksa21" target="_blank">
+    <img align="left" alt="Segnim | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/segni-mideksa21" target="_blank">
+    <img align="left" alt="Segnim | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/segncot12" target="_blank">
+    <img align="left" alt="Segnim | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
+<br clear="both" />
+
+
+📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=segnim21&show_icons=true&theme=tokyonight&hide_border=true" alt="Segni's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segnim21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+
+  💡 Current Focus
+- Learning **Front-End Development** (HTML, CSS, JavaScript, React)  
+- Improving **UI/UX design skills** and building **user-centered solutions**  
+- Working on **personal and collaborative web projects**  
+- Exploring **problem-solving, creative coding, and new technologies**
+
+
+
+ 📝 Projects (Optional)
+| Project | Description | Link |
+|---------|-------------|------|
+| My Portfolio | Personal website showcasing projects | [Repo](https://github.com/segnim21/my-portfolio) |
+| Front-End App | Sample React application | [Repo](https://github.com/segnim21/frontend-app) |
+
+
+✨ *“Code. Create. Collaborate.”* — that’s my mindset for building meaningful digital experiences.
 
 
 <!--
