@@ -6,7 +6,7 @@ Personalized GitHub Profile for Segni M
 <h1 align="center">Hi 👋, I'm Segni M</h1>
 <h2 align="center">Aspiring Full-Stack Developer | Front-End Learner at ALX Africa | Civil Engineering Student at AASTU</h2>
 
- 🌟 About Me
+ <h2>🌟 About Me </h2>
 I am a learner of the "ALX Software Engineering Program" and I want to "revamp my GitHub profile" to make it stand out in my job search.  
 This is why I started with software engineering: I am passionate about "creating user-friendly web applications" and inspired by the power of code to "solve real-world problems and make a difference for users".  
 
